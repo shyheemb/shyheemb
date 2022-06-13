@@ -1,9 +1,9 @@
 <div id="" align="center">
-  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
+  <img src="https://github.com/shyheemb/shyheemb/blob/main/assets/Copy%20of%20Black%20&%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.jpg?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Shyheem Burrows</h1>
 <h3 align="center">A Web developer from Jersey city, NJ</h3>
-<h4 align="center">Hi my name is Shyheem Burrows a web developer based out of NJ. I'm very passionate and dedicated to my work.I have experience with content management systems.I can take design mockups and convert them into pixel perfect HTML and CSS. I'm a life long learner, and passionate problem solver. </h4>
+<h4 align="center">Hi my name is Shyheem Burrows a web developer based out of NJ. I'm very passionate and dedicated to my work.I have experience with content management systems. I can take design mockups and convert them into pixel perfect HTML and CSS. I'm a life long learner, and passionate problem solver. </h4>
 
 <hr>
 
