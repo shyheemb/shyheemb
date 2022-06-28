@@ -62,64 +62,110 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Disney Plus Newsletter</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://shyheemcodes.com/disney-promotinal-email/public/index.html' target="_blank">
+						<img src="https://shyheemcodes.com/img/portfolio/DISNEY.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://shyheemcodes.com/disney-promotinal-email/public/index.html" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://shyheemcodes.com/disney-promotinal-email/public/index.html" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					 <p><strong>HTML, CSS</strong></p>
+					<p>Disney Plus is a streaming service owned by disney.
+					Here is a Email that was built with html and css.</p>
 				</div>
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">GYMOCLOCK</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    <a href='https://gymoclock-fit.myshopify.com/' target="_blank">
+                        <img src="https://shyheemcodes.com/img/portfolio/GYMOCLOCK.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://gymoclock-fit.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://gymoclock-fit.myshopify.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Shopify</strong></p>
+		    <p>GYMOCLOCK is a clothing brand in the fitness industry. That strives to motivate and push others to reach their fitness goals. Here is a website that was built and managed using the content management systems Shopify.</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Gamestop transitional Email</h3>
                 <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    <a href='https://shyheemcodes.com/Gamestop-Email/public/index.html' target="_blank">
+                        <img src="https://shyheemcodes.com/img/portfolio/GAMESTOP.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://shyheemcodes.com/Gamestop-Email/public/index.html" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://shyheemcodes.com/Gamestop-Email/public/index.html"_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p>Gamestop is a retail store in the gaming industry.
+		    Here is a Email that was built with html and css.</p>
+                </div>	
+            </td>
+        </tr>
+	<tr>
+            <td width="50%">
+                <h3 align="center">Fashion Nova Promotional Email</h3>
+                <div align="center" >  
+                    <a href='https://shyheemcodes.com/Fashion-Nova-Email/public/index.html' target="_blank">
+                        <img src="https://shyheemcodes.com/img/portfolio/FASHION-NOVA.png" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://shyheemcodes.com/Fashion-Nova-Email/public/index.html" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://shyheemcodes.com/Fashion-Nova-Email/public/index.html" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS</strong></p>
+		    <p>Fashion Nova is a online clothing store.
+		    Here is a Email that was built with html and css.</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">JustbeClaw
+</h3>
+                <div align="center">  
+                    <a href='https://justbeclaw.com/' target="_blank">
+                        <img src="https://shyheemcodes.com/img/portfolio/Justbeclaw.png" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://justbeclaw.com/" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://justbeclaw.com/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+		    <p>JustbeClaw is a Seafood resturant in the Jersey city. That focus on making amazing Seafood. Here is a website that was built with html and css.</p>
                 </div>	
             </td>
         </tr>
@@ -135,10 +181,9 @@
 <h2 align="center">Contact Me</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
-	<a href="https://twitter.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://linkedin.com/in/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://instagram.com/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
-<a href="https://www.youtube.com/c/codingphase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" /></a>
+	<a href="https://twitter.com/shyheem__codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.linkedin.com/in/shyheem-burrows-561293161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+<a href="https://www.instagram.com/shyheem__codes/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 </p>
 
 <hr>
