@@ -19,14 +19,13 @@
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
+                      <img src="https://img.icons8.com/color/96/000000/shopify.png" alt="css3" width="75" height="75"/>
+                      <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png" alt="css3" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
-                      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> 
-                    </div>
+                      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-mailchimp-is-a-marketing-automation-platform-and-an-email-marketing-service-logo-color-tal-revivo.png" alt="git" width="75" height="75"/> 
+                      <img src="https://cdn.freebiesupply.com/logos/large/2x/litmus-logo-png-transparent.png" alt="" width="75" height="75"/>
+                     
+                    
 </div>
 
 <br>
